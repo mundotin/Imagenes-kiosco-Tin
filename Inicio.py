@@ -6,3 +6,4 @@ Created on Fri May  1 12:44:10 2020
 """
 
 print("Hola")
+print("Chau")
