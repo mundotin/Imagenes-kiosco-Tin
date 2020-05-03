@@ -5,7 +5,7 @@ Created on Fri May  1 12:44:10 2020
 API_KEY = "AIzaSyCwT0s0nEXsgRfIZmpplUfwhDoauiHadlo"
 PROYECT_CX = "006662431015372263036:po8ilu4yrsd"
 
-@author: Franco gay
+@author: Franco _ Martin the BOSS
 """
 import csv, sys
 from google_images_download import google_images_download
