@@ -1,3 +1,0 @@
-date:nombre:closing_price
-6/20/2014:Fideos Matarazzo 500gr moñito:90.91
-6/20/2014:Coca-Cola retronable 2 litros:90.91
